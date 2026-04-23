@@ -129,9 +129,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ## 👤 Author
 
 **Matteo Marcantoni** — [GitHub](https://github.com/matteomarca99)
-
----
-
-<p align="center">
-  Made with ❤️ for the Unity & game development community
-</p>
